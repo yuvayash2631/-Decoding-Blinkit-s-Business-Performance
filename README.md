@@ -79,7 +79,8 @@ o	Zone (Central, East, North, South, West)
 ![image](https://github.com/user-attachments/assets/350bc13a-2a32-4d4d-8ab0-3f5b84f0ab51)
 
 ________________________________________
-🌟 Overall Dashboard Purpose:
+# 🌟 Overall Dashboard Purpose:
+
 This dashboard provides a 360° view of Blinkit’s business performance for 2023:
 •	Tracks sales performance, customer satisfaction, product & category performance, and payment trends
 •	Useful for stakeholders to understand trends and take data-driven decisions (e.g., which payment mode or product category performs best, where delivery delays are high, etc.)
