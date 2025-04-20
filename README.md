@@ -40,7 +40,8 @@ Key Metrics:
 Visuals:
 •	Daily Sales Trend (Bar chart)
 •	Top Performing Zones: South, Central, West, East, North
-https://1drv.ms/i/c/eaa8c065d9b70431/EeesZpVz7eJIpsepsaRRXg8BA5NFqatUL0SCD9lA9yYzPg?e=Mbidaz
+![Screenshot 2025-04-20 124908](https://github.com/user-attachments/assets/b98827d2-94c6-4a91-b88c-fd0609098d53)
+
 
 ________________________________________
 🔵 4. Blinkit - Customer Feedback Summary
@@ -54,6 +55,7 @@ Filters:
 Visuals:
 •	Pie chart or donut chart for feedback
 •	Possibly map-based or matrix visual for zones & feedback
+![image](https://github.com/user-attachments/assets/c968d672-fa73-447f-ba5b-4b3b3883ff33)
 
 ________________________________________
 🔵 5. Blinkit - Payment & Revenue Summary
@@ -69,6 +71,8 @@ Visuals:
 o	Payment Method
 o	City (Bangalore, Chennai, Delhi, Kolkata, Mumbai)
 o	Zone (Central, East, North, South, West)
+![image](https://github.com/user-attachments/assets/350bc13a-2a32-4d4d-8ab0-3f5b84f0ab51)
+
 ________________________________________
 🌟 Overall Dashboard Purpose:
 This dashboard provides a 360° view of Blinkit’s business performance for 2023:
