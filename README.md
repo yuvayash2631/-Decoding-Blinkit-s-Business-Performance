@@ -40,7 +40,7 @@ Key Metrics:
 Visuals:
 •	Daily Sales Trend (Bar chart)
 •	Top Performing Zones: South, Central, West, East, North
-![Uploading Screenshot 2025-04-20 121721.png…]()
+https://1drv.ms/i/c/eaa8c065d9b70431/EeesZpVz7eJIpsepsaRRXg8BA5NFqatUL0SCD9lA9yYzPg?e=Mbidaz
 
 ________________________________________
 🔵 4. Blinkit - Customer Feedback Summary
