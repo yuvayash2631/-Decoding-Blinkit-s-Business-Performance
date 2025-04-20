@@ -1,4 +1,5 @@
-🔵 1. Blinkit - Overview Dashboard
+##🔵 1. Blinkit - Overview Dashboard
+
 Key Highlights:
 •	Total Revenue: ₹287.19K
 •	Total Orders: 588
@@ -16,7 +17,8 @@ Slicers:
 ![Screenshot 2025-04-20 121433](https://github.com/user-attachments/assets/61e710a0-c7bd-4001-86a7-05cb64020047)
 
 ________________________________________
-🔵 2. Blinkit - Zone Wise Order Summary
+##🔵 2. Blinkit - Zone Wise Order Summary
+
 Focus:
 •	Zone: North (filter applied)
 Key Metrics:
@@ -30,7 +32,8 @@ Filters Available:
 ![Screenshot 2025-04-20 121630](https://github.com/user-attachments/assets/7cd8e579-b788-4455-9653-6a8af07bad79)
 
 ________________________________________
-🔵 3. Blinkit - Sales Summary
+##🔵 3. Blinkit - Sales Summary
+
 Key Metrics:
 •	Monthly Sales: ₹137.75K
 •	Total Revenue: ₹132.13K
@@ -44,7 +47,8 @@ Visuals:
 
 
 ________________________________________
-🔵 4. Blinkit - Customer Feedback Summary
+##🔵 4. Blinkit - Customer Feedback Summary
+
 Customer Feedback Breakdown:
 •	Happy: 23.33%
 •	Neutral: 25.56%
@@ -58,7 +62,8 @@ Visuals:
 ![image](https://github.com/user-attachments/assets/c968d672-fa73-447f-ba5b-4b3b3883ff33)
 
 ________________________________________
-🔵 5. Blinkit - Payment & Revenue Summary
+##🔵 5. Blinkit - Payment & Revenue Summary
+
 Key Metrics:
 •	Total Revenue: ₹1.52M
 •	Total Sales (after discount): ₹1.51M
